@@ -1,6 +1,8 @@
 # Led-control-using-Arduino
+```
 Name: Saranya S
 Register Number:212223110044
+```
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 

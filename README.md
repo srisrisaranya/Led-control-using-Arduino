@@ -1,4 +1,4 @@
-# Led-control-using-Arduino
+# Led control using Arduino
 ```
 Name: Saranya S
 Register Number:212223110044

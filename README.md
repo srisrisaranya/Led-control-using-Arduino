@@ -70,7 +70,7 @@ bool button_status;
 void setup() {
   // put your setup code here, to run once:
   pinMode(10,OUTPUT);
-  pinMode(6,INPUT);
+  pinMode(5,INPUT);
 }
 
 void loop() {
